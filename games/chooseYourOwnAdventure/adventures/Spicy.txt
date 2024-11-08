@@ -1,0 +1,382 @@
+----title----
+Spicy Adventure
+
+
+
+
+----event----
+----wipe-screen----
+----name----
+error
+----story----
+Error: this story line is not finished.
+Go bug the author or something.
+----auto-leads----
+offer retry
+
+
+
+
+----event----
+----name----
+quit
+----story----
+Thanks for playing!
+
+
+
+
+----event----
+----name----
+offer retry
+
+----choice----
+----body----
+Play again
+----leads----
+start
+
+----choice----
+----body----
+Quit
+----leads----
+quit
+
+
+
+
+----event----
+----wipe-screen----
+----name----
+start
+----story----
+You wake up in an unfamiliar place
+that sort of resembles a lab cell.
+You see a door in front of you.
+There is also a window on your right.
+
+----choice----
+----body----
+Try the door
+----leads----
+first door die
+
+----choice----
+----body----
+Try the window
+----leads----
+window choice
+
+----choice----
+----body----
+Lie back down,
+and hope for the best
+----leads----
+chasing tank die
+
+
+
+
+----event----
+----name----
+first door die
+----story----
+You turn the doorknob, and you see that it is unlocked.
+You swing the door open.
+You are now staring straight down the barrel of a tank.
+It shoots you. You die.
+----auto-leads----
+offer retry
+
+
+
+
+----event----
+----name----
+chasing tank die
+----story----
+You lie back down.
+Suddenly, a tank bursts through the wall behind you.
+It runs over you. You die.
+----auto-leads----
+offer retry
+
+
+
+
+----event----
+----name----
+window choice
+----story----
+Not trusting whoever has put you in this place,
+You try to open the window.
+Unfortunately, it is locked.
+Undetered, you back up, and throw yourself through the window.
+This makes a loud noise, and you know you have to act fast.
+The new large room you have found yourself in has two doors,
+As well as what looks to be a control panel of sorts to your right.
+
+----choice----
+----body----
+Try the left door
+----leads----
+second door left die
+
+----choice----
+----body----
+Try the right door
+----leads----
+second door right die
+
+----choice----
+----body----
+Mess with the control panel
+----leads----
+control panel choice
+
+
+
+
+
+----event----
+----name----
+second door left die
+----story----
+You burst through the door on your left.
+You close the door behind you, only to be left in total darkness.
+You frantically scramble for a light switch.
+Once you find it, you flick it and wheel around.
+You are now staring down the barrel of a tank.
+It shoots you. You die.
+----auto-leads----
+offer retry
+
+
+
+
+
+----event----
+----name----
+second door right die
+----story----
+You rush through the door on the right,
+only to be greeted by a suspiciously empty rooom.
+You start hearing cracks above you, and looking up,
+you see that something is about to crash through the ceiling.
+Before you can react, a tank falls on top of you.
+You are instantly flattened. You die.
+----auto-leads----
+offer retry
+
+
+
+
+
+----event----
+----name----
+control panel choice
+----story----
+You rush to the control panel, hoping to find
+something you can use to your advantage.
+You see many buttons and dials, all labeled
+vaguely.
+
+----choice----
+----body----
+Set "Lighting" to off
+----leads----
+lights off choice
+
+----choice----
+----body----
+Turn "Lightning" to on
+----leads----
+tesla tank die
+
+----choice----
+----body----
+Turn "Bass" to 11
+----leads----
+noise alert die
+
+----choice----
+----body----
+Press "Release the Beans"
+----leads----
+Bean Tank Die
+
+----choice----
+----body----
+Press "Lower back wall"
+----leads----
+reveal tank die
+
+----choice----
+----body----
+Press "LOCKDOWN!"
+(it is big and red 
+and very tempting)
+----leads----
+lockdown choice
+
+----choice----
+----body----
+Don't press anything
+----leads----
+chasing tank die 2
+
+
+
+
+
+----event----
+----name----
+control panel choice (after lighting)
+----story----
+You look back at the control panel, hoping to find
+something you can use to your advantage.
+You re-examine the many buttons and dials, all labeled
+vaguely.
+
+----choice----
+----body----
+Set "Lighting" to off
+----leads----
+lighting re-examine
+
+----choice----
+----body----
+Turn "Lightning" to on
+----leads----
+tesla tank die
+
+----choice----
+----body----
+Turn "Bass" to 11
+----leads----
+noise alert die
+
+----choice----
+----body----
+Press "Release the Beans"
+----leads----
+Bean Tank Die
+
+----choice----
+----body----
+Press "Lower back wall"
+----leads----
+reveal tank die
+
+----choice----
+----body----
+Press "LOCKDOWN!"
+(it is big and red 
+and very tempting)
+----leads----
+lockdown choice
+
+----choice----
+----body----
+Don't press anything
+----leads----
+chasing tank die 2
+
+
+
+
+
+----event----
+----name----
+lights off choice
+----story----
+You flip the switch labeled "lighting"
+and, to your surprise, the lights turn off.
+You decide that you cannot escape without the
+lights, and turn them back on to see what other
+things you could press.
+----auto-leads----
+control panel choice (after lighting)
+
+
+
+
+
+----event----
+----name----
+lighting re-examine
+----story----
+You are once again tempted by the button
+labeled "Lighting". You go to press it, but
+decide otherwise last second, lest you waste
+too much time
+----auto-leads----
+control panel choice (after lighting)
+
+
+
+
+
+----event----
+----name----
+tesla tank die
+----story----
+You flip the switch labeled "Lightning" to on.
+As you do, the wall in front of you begins to retract
+into the ceiling, revealing a tank with a tesla coil on
+top of it instead of a gun. You hear a low pitched warbling
+coming from it, and you realize that it is charging up.
+Without a second to lose, you rush to the nearest door,
+but it is already too late. The tesla coil discharges into
+you, instantly frying your organs and cooking you to a
+medium rare. You die.
+----auto-leads----
+offer retry
+
+
+
+
+
+----event----
+----name----
+noise alert die
+----story----
+You turn the dial labeled "Bass" to the notch labeled "11".
+Instantly you hear heavy dubstep blasting from the panel in
+front of you. While you are worried about being caught, this
+is the best song you have ever heard. You decide that you
+can spend a second jamming out to it. A second turns into a
+minute, which turns into a couple minutes, which turns into
+twenty. The song finally ends, and you decide to get back
+to escaping. You turn around to see your other options,
+and you see about a dozen tanks aimed right at you from the
+next room over, where there was once a wall. They all shoot
+you. You die.
+----auto-leads----
+offer retry
+
+----choice----
+----body----
+Press "Release the Beans"
+----leads----
+Bean Tank Die
+
+----choice----
+----body----
+Press "Lower back wall"
+----leads----
+reveal tank die
+
+----choice----
+----body----
+Press "LOCKDOWN!"
+(it is big and red 
+and very tempting)
+----leads----
+lockdown choice
+
+----choice----
+----body----
+Don't press anything
+----leads----
+chasing tank die 2

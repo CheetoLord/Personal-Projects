@@ -1,0 +1,94 @@
+! Exclamation Mark
+" Double Quote
+# Hashtag/Pound
+$ Dollar Sign
+% Percent
+& Ampersand
+' Single Quote
+( Open Parenthesis
+) Close Parenthesis
+* Asterisk
++ Plus
+, Comma
+- Minus
+. Period
+/ Forward Slash
+0 Zero
+1 One
+2 Two
+3 Three
+4 Four
+5 Five
+6 Six
+7 Seven
+8 Eight
+9 Nine
+: Colon
+; Semicolon
+< Less Than
+= Equals
+> Greated Than
+? Question Mark
+@ At Sign
+A Uppercase A
+B Uppercase B
+C Uppercase C
+D Uppercase D
+E Uppercase E
+F Uppercase F
+G Uppercase G
+H Uppercase H
+I Uppercase I
+J Uppercase J
+K Uppercase K
+L Uppercase L
+M Uppercase M
+N Uppercase N
+O Uppercase O
+P Uppercase P
+Q Uppercase Q
+R Uppercase R
+S Uppercase S
+T Uppercase T
+U Uppercase U
+V Uppercase V
+W Uppercase W
+X Uppercase X
+Y Uppercase Y
+Z Uppercase Z
+[ Open Bracket
+\ Back Slash
+] Close Bracket
+^ Upcarrot
+_ Underscore
+` Backtick
+a Lowercase A
+b Lowercase B
+c Lowercase C
+d Lowercase D
+e Lowercase E
+f Lowercase F
+g Lowercase G
+h Lowercase H
+i Lowercase I
+j Lowercase J
+k Lowercase K
+l Lowercase L
+m Lowercase M
+n Lowercase N
+o Lowercase O
+p Lowercase P
+q Lowercase Q
+r Lowercase R
+s Lowercase S
+t Lowercase T
+u Lowercase U
+v Lowercase V
+w Lowercase W
+x Lowercase X
+y Lowercase Y
+z Lowercase Z
+{ Open Brace
+| Bar / Pipe
+} Close Brace
+~ Tilde

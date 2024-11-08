@@ -1,0 +1,290 @@
+speed 250
+
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+a 
+
+
+f 
+j 
+
+h 
+
+s f 
+s f 
+
+s f 
+s f 
+
+
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+a d 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+s f 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+h k 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
+f j 
